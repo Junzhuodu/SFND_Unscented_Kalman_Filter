@@ -59,7 +59,8 @@ Inorder to process noise, we need Augmented State to calculate Augmented Sigma P
 <img src="media/process-noise.png"/>
 
 [From Udacity]
-<img src="media/augmented-state.png" />
+
+<img src="media/augmented-state.png" width="400" height="400"/>
 
 [From Udacity]
 
