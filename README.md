@@ -54,6 +54,7 @@ This is sigma points generation formula.
 <img src="media/sigma-points.png"/>
 
 [From Udacity]
+
 Inorder to process noise, we need Augmented State to calculate Augmented Sigma Points. 
 <img src="media/process-noise.png"/>
 
