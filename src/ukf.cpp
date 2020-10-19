@@ -134,6 +134,7 @@ void UKF::Prediction(double delta_t) {
    * Modify the state vector, x_. Predict sigma points, the state, 
    * and the state covariance matrix.
    */
+  // Generate Sigma Points 
   // Get Xsig_aug
   MatrixXd Xsig_aug(n_aug_, 2 * n_aug_ + 1);
 
