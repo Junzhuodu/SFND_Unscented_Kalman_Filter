@@ -39,6 +39,7 @@ The red spheres above cars represent the (x,y) lidar detection and the purple li
 ## Motion Model Choosing 
 Here, constant turn rate and velocity magnitude model (CTRV) is chosen. 
 <img src="media/ctrv-model.png"/>
+<img src="media/predict_position_model.png"/>
 
 [From Udacity]
 
